@@ -1,6 +1,6 @@
 # yes_no
 
-A new Flutter project.
+Ejemplo de un app de chat en flutter en donde se consume una api rest y se hace uso de algunos principios de arquitectura limpia.
 
 ## Getting Started
 
